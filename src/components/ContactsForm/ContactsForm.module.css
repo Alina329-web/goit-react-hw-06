@@ -1,0 +1,13 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  border: 3px solid blue;
+  border-radius: 20px;
+  padding: 20px;
+}
+.formBtn {
+  background-color: rgba(89, 230, 7, 0.651);
+}
